@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Complexity.unity
+    guid: 9afd06bcaab817544be0527faa1edb84
+  - enabled: 1
+    path: Assets/Scenes/Finish1.unity
+    guid: 98c0cdb2c91fc2c4186c0831cebaaec1
+  - enabled: 1
+    path: Assets/Scenes/Finish2.unity
+    guid: 7c1010e522ccb1f478f6b7134bdce8c4
+  - enabled: 1
+    path: Assets/Scenes/Finish3.unity
+    guid: 8a2225c1480e80e4585cea90b53ec1fb
+  - enabled: 1
+    path: Assets/Scenes/Restart1.unity
+    guid: 9e5d2fea97b27bb47a6d073b8e31c05b
+  - enabled: 1
+    path: Assets/Scenes/Restart2.unity
+    guid: 8cc5b9be0c35de64ab4f091374a9c322
+  - enabled: 1
+    path: Assets/Scenes/Restart3.unity
+    guid: e4970e2e8b2771b4683dc19205ca5261
+  - enabled: 1
+    path: Assets/Scenes/Puzzle1.unity
+    guid: 97163b1cca78c15498795715c855bd73
+  - enabled: 1
+    path: Assets/Scenes/Puzzle2.unity
+    guid: 17269c56e3c4fe74d9a576c7678cdb21
+  - enabled: 1
+    path: Assets/Scenes/Puzzle3.unity
+    guid: 7bac463358a71484eaa2e2c1d65b1c98
+  - enabled: 1
+    path: Assets/Scenes/Puzzle4.unity
+    guid: dc6bb0ad0372a2e4689c35de8c4c4442
+  - enabled: 1
+    path: Assets/Scenes/Puzzle5.unity
+    guid: 92da055460f47c94aaba5b5663370ad8
+  - enabled: 1
+    path: Assets/Scenes/Puzzle6.unity
+    guid: ee09aa597ddb0024a91d7f19c908641b
+  - enabled: 1
+    path: Assets/Scenes/Puzzle7.unity
+    guid: 61c7a7418f1d34f478a751c7c0eb68af
+  - enabled: 1
+    path: Assets/Scenes/Puzzle8.unity
+    guid: 83797c9957c822840a64c9e9873bcbe2
+  - enabled: 1
+    path: Assets/Scenes/Puzzle9.unity
+    guid: e7d28030be176b1408745f42c0497d1a
+  - enabled: 1
+    path: Assets/Scenes/Puzzle10.unity
+    guid: b27134bad2084384c82ddab4c9a2ab60
+  - enabled: 1
+    path: Assets/Scenes/Puzzle11.unity
+    guid: ee254eb751a0c034fae71d1364131d12
+  - enabled: 1
+    path: Assets/Scenes/Puzzle12.unity
+    guid: c297bb44f675b264e9d9b323acbb0069
+  - enabled: 1
+    path: Assets/Scenes/Puzzle13.unity
+    guid: b715f4cb6d7765f4e8eca0a90c2d14ed
+  - enabled: 1
+    path: Assets/Scenes/Puzzle14.unity
+    guid: dcd12f2ffca53544ab30fb3c2e783fa4
+  - enabled: 1
+    path: Assets/Scenes/Puzzle15.unity
+    guid: 7294d0d5c6da59a499c41c3df9cb2633
+  - enabled: 1
+    path: Assets/Scenes/Puzzle16.unity
+    guid: edbb84012e9f8f4408d0c523734fa79f
+  - enabled: 1
+    path: Assets/Scenes/Puzzle17.unity
+    guid: eff1bdc90017deb419a1cc38c45a5fe2
+  - enabled: 1
+    path: Assets/Scenes/Puzzle18.unity
+    guid: 45828985d3a87094ba310ed319bae63c
+  m_configObjects: {}
